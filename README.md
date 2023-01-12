@@ -8,15 +8,15 @@ I am Expert WordPress developer on GitHub creating custom plugins, themes, and s
 
 <p align="left"> <a href="https://twitter.com/sufianfareed" target="blank"><img src="https://img.shields.io/twitter/follow/sufianfareed?logo=twitter&style=for-the-badge" alt="sufianfareed" /></a> </p>
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/sufianfareed) as an wordpress developer
+- 🔭 I’m currently working on **[Fiverr](https://www.fiverr.com/)** as an **[wordpress developer](https://www.fiverr.com/share/0zl74a)**
 
 - 🌱 Exploring JavaScript with **React JS**
 
-- 📝 Blog Writer on [Bestpakistanis](https://bestpakistanis.com/)
+- 📝 Blog Writer on **[Bestpakistanis](https://bestpakistanis.com/)**
 
 - 📫 Reach me at **engr.sufianfareed@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sufianfareed/](https://www.linkedin.com/in/sufianfareed/)
+- 📄 Know about my experiences **[https://www.linkedin.com/in/sufianfareed/](https://www.linkedin.com/in/sufianfareed/)**
 
 - ⚡ Fun fact **Did you know that octopuses have three hearts and blue blood? They also have the ability to change color and texture to blend into their surroundings**
 
