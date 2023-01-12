@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sufian Fareed</h1>
 <h3 align="center">Building a strong reputation as a developer on GitHub through consistent and high-quality work</h3>
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufianfareed&label=Profile%20views&color=0e75b6&style=flat" alt="sufianfareed" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sufianfareed" target="blank"><img src="https://img.shields.io/twitter/follow/sufianfareed?logo=twitter&style=for-the-badge" alt="sufianfareed" /></a> </p>
